@@ -11,5 +11,5 @@
 
 ## 使用方法
 1. 建置環境
-- GetModel部分請參考[model_requirements.txt](https://github.com/pear651530/Combining-Deep-Learning-and-3D-Computer-Vision-Technology-for-Digital-Twin-Design/blob/main/model_requirements.txt)
+  - GetModel部分請參考[model_requirements.txt](https://github.com/pear651530/Combining-Deep-Learning-and-3D-Computer-Vision-Technology-for-Digital-Twin-Design/blob/main/model_requirements.txt)
 2. 參考[影片](https://youtu.be/gRvDpN38DEM)

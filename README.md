@@ -10,6 +10,6 @@
 - 獲得去背圖已訓練好的.h5檔由此[點擊下載](https://drive.google.com/file/d/16CGNquXQ2wyKY8c3fHZ0JmfTR6mLCloe/view?usp=sharing)，並放入GetModel下
 
 ## 使用方法
-- 建置環境
-  - GetModel部分請參考[model_requirements.txt](https://github.com/pear651530/Combining-Deep-Learning-and-3D-Computer-Vision-Technology-for-Digital-Twin-Design/blob/main/model_requirements.txt)
-- 參考[影片](https://youtu.be/gRvDpN38DEM)
+1. 建置環境
+   - GetModel部分請參考[model_requirements.txt](https://github.com/pear651530/Combining-Deep-Learning-and-3D-Computer-Vision-Technology-for-Digital-Twin-Design/blob/main/model_requirements.txt)
+2. 參考[影片](https://youtu.be/gRvDpN38DEM)

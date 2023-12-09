@@ -21,6 +21,6 @@
 參考[影片](https://youtu.be/gRvDpN38DEM)
 
 ## 參考
-- JizhiziLi. P3M-10k. (2016)[Online](https://github.com/JizhiziLi/P3M).
+- [JizhiziLi. P3M-10k. (2016)](https://github.com/JizhiziLi/P3M).
 - Shunsuke Saito. PIFu. (2019)[Online](https://github.com/shunsukesaito/PIFu).
 - Stereoarts. SAFullBodyIK. (2016)[Online](https://github.com/Stereoarts/SAFullBodyIK).

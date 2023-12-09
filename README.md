@@ -10,4 +10,5 @@
 - 獲得去背圖已訓練好的.h5檔由此[點擊下載](https://drive.google.com/file/d/16CGNquXQ2wyKY8c3fHZ0JmfTR6mLCloe/view?usp=sharing)，並放入GetModel下
 
 ## 使用方法
+
 參考[影片](https://youtu.be/gRvDpN38DEM)

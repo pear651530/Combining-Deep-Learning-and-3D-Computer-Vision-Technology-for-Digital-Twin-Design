@@ -16,8 +16,9 @@
 ## 使用方法
 1. 建置環境
    - GetModel部分所需環境請參考[model_requirements.txt](https://github.com/pear651530/Combining-Deep-Learning-and-3D-Computer-Vision-Technology-for-Digital-Twin-Design/blob/main/model_requirements.txt)
+   - pose_track部份環境建置請參考系統使用手冊.docx
 2. 執行model_ui.py
-3. 執行run.py，閱讀使用手冊建置環境並按步驟執行即可完成即時模型連動操作
+3. 執行run.py，按步驟執行即可完成即時模型連動操作
 
 ## 成果範例
 參考[影片](https://youtu.be/gRvDpN38DEM)

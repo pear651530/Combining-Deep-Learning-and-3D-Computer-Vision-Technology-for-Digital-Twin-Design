@@ -11,11 +11,13 @@
 ## 注意
 - GetModel需用到Blender，請先下載好，並將載好的整包資料夾放入BlenderBone下
 - 獲得去背圖已訓練好的.h5檔由此[點擊下載](https://drive.google.com/file/d/16CGNquXQ2wyKY8c3fHZ0JmfTR6mLCloe/view?usp=sharing)，並放入GetModel下
+- 開啟Unity按鈕，請先將Unity下載好，並把資料放置pose_track下
 
 ## 使用方法
 1. 建置環境
    - GetModel部分所需環境請參考[model_requirements.txt](https://github.com/pear651530/Combining-Deep-Learning-and-3D-Computer-Vision-Technology-for-Digital-Twin-Design/blob/main/model_requirements.txt)
 2. 執行model_ui.py
+3. 執行run.py，並依使用手冊步驟即可完成即時模型連動操作
 
 ## 成果範例
 參考[影片](https://youtu.be/gRvDpN38DEM)
